@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman Khare!
 
-## 🚀 Full Stack .NET Architect | Polyglot Developer | AI & Cloud Enthusiast
+## 🚀 Full Stack .NET Architect | Solution Architect | AI & Cloud Enthusiast
 
 Welcome to my GitHub! If you’re seeking a developer who delivers scalable, enterprise-grade software—and has a love for modern architectures, automation, and solving tough business challenges—you’ve come to the right profile.
 
