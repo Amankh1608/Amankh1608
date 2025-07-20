@@ -58,8 +58,8 @@ With 6+ years of experience, I specialize in full-stack development using **.NET
 
 ## 📬 Let’s Connect
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
+- **Email:** amankh016@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/aman-khare-290973199/(#)
 - **Portfolio:** [your-portfolio.com](#)
 
 > “I believe great software solves deep business needs with creativity, craftsmanship, and a touch of automation.”
