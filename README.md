@@ -59,8 +59,8 @@ I’m a software craftsman with 6+ years of experience delivering secure, scalab
 ## 📬 Let’s Build Something Awesome
 
 Ready to turn your ambitious project into reality?  
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](#)  
+**Email:** amankh016@gmail.com 
+**LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/aman-khare-290973199/)](#)  
 **Portfolio:** [your-portfolio.com](#)
 
 > “Great software is more than code—it’s about solving real problems with creativity, craftsmanship, and a spark of innovation.”
