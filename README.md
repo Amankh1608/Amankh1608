@@ -1,59 +1,73 @@
-# 👋 Hi, I'm Aman Khare
+# 👋 Hi, I'm Aman Khare (Amankh1608)
 
-**Senior Full Stack Developer | Solution Architect | .NET Core Expert | AI & Multi-Stack Specialist**
+**Senior Full Stack Developer | Solution Architect | .NET Core Specialist | AI & Multi-Stack Developer**
 
-I'm a technology enthusiast with **6+ years of experience** in designing, developing, and architecting scalable, enterprise-grade web applications. My core strength lies in **.NET Core, C#, Angular, and PostgreSQL**, but I also build solutions using **Node.js, Python, and Golang**, giving me the flexibility to choose the right tool for the problem.
+I’m a technology enthusiast with **6+ years of experience** in designing and developing scalable, enterprise-grade web applications. While I specialize in **.NET Core, C#, Angular, and PostgreSQL**, I’m also skilled in **Node.js**, **Python**, and **Golang**, giving me the flexibility to architect and build multi-stack solutions based on business needs.
 
-I’m passionate about clean architecture, microservices, real-time systems, and integrating modern AI capabilities (OpenAI APIs, Vision APIs) to create intelligent, business-driven solutions.
+From building real-time messaging platforms to integrating AI capabilities like document processing and chat summarization using OpenAI APIs — I’m passionate about creating solutions that are not only functional but smart and scalable.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 My Tech Stack
 
-- **Languages & Frameworks:**  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-  ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+### 🛠 Core Technologies:
+- **Backend:**  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+  ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-- **Databases:**  
+- **Frontend:**  
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+  TypeScript | JavaScript | PrimeNG | Angular Material
+
+- **Database:**  
   PostgreSQL | SQL Server | MS SQL
 
 - **Cloud & DevOps:**  
   AWS | Azure | Docker | CI/CD Pipelines
 
-- **Tools & Concepts:**  
-  Microservices | Clean Architecture | SOLID Principles | REST APIs | RabbitMQ | Firebase | WebSockets | AI API Integrations (OpenAI, GPT)
+- **Messaging & Real-Time:**  
+  RabbitMQ | Firebase | WebSocket
+
+- **AI & Machine Learning:**  
+  OpenAI APIs (GPT-based chat summarization, document processing)  
+  Azure Cognitive APIs
+
+- **Others:**  
+  RESTful APIs | Microservices | Clean Architecture | SOLID Principles | Git | Jira | Azure DevOps
 
 ---
 
-## 🚀 What I Do
+## 🏆 Highlights of My Work
 
-- Architect and develop **microservices-based SaaS platforms**.
-- Build **real-time messaging systems** using WebSockets, Firebase, RabbitMQ.
-- Integrate **AI APIs** for document processing, chat summarization, and automated workflows.
-- Optimize UI/UX using Angular, React, and enterprise design frameworks.
-- Consult businesses on **scalable system architecture** and backend modernization.
-- Lead teams with code reviews, sprint planning, and technical mentorship.
+- Designed and developed **enterprise-grade SaaS platforms** using .NET Core and Angular.
+- Built real-time **Business Messaging Platforms** supporting WhatsApp/LINE using WebSockets and RabbitMQ.
+- Integrated **AI APIs** to automate document workflows, chat summarization, and content generation.
+- Architected microservices in **Node.js**, **Golang**, and **Python** where appropriate for scalability.
+- Developed multi-tenant insurance and healthcare platforms with secure data isolation.
+- Led backend modernization, system optimization, and cloud migration projects.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-omni&show_icons=true&theme=radical&hide=stars)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankh1608&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-omni&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankh1608&layout=compact&theme=radical)
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/aman-khare-45285a116/)
 - [Upwork Profile](https://www.upwork.com/freelancers/~01c3c5fd2a2347b0a7)
 - [Email](mailto:your.email@example.com)
 
 ---
-**“Your tech problems? Consider them solved.”**
+
+**"I design systems that scale, code that performs, and solutions that solve real business problems."**
+
+---
