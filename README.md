@@ -46,15 +46,6 @@ I’m a software craftsman with 6+ years of experience delivering secure, scalab
 
 ---
 
-## 📈 Want to Make Your GitHub Shine? Here’s How:
-
-- **Pin Your Stars:** Showcase your top repositories with attention-grabbing READMEs and visuals.
-- **Add Badges:** Use Shields.io to highlight build status, main languages, and project stats.
-- **Show, Don’t Tell:** Include screenshots or GIFs to bring your projects to life.
-- **Certs & Highlights:** Display your best certifications and key achievements.
-- **Make Contact Easy:** List LinkedIn, Upwork, or a portfolio link for collaborations.
-
----
 
 ## 📬 Let’s Build Something Awesome
 
